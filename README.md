@@ -6,8 +6,8 @@
 
 ### Links and Resources
 
-- [Link01]()
-- [Link02]()
+- [Link01](https://www.w3schools.com/python/ref_string_format.asp)
+- [Link02](https://realpython.com/python-kwargs-and-args/#unpacking-with-the-asterisk-operators)
 
 ### Setup
 
@@ -30,6 +30,3 @@
 - Describe any tests that you did not complete, skipped, etc
   no ,all the test copmlete
 
-- how to run the test:
-`pytest`
-`pytest tests/test_madlib.py`
